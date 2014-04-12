@@ -1,8 +1,3 @@
-==Overview
+This repository has been moved to a github organization:
 
-
-===Technologies
-MongoDB
-JAX-RS
-JQuery + JSON objects
-D3 visualizations
+https://github.com/CI-BER/BrownDog-Testbed
